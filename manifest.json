@@ -1,0 +1,26 @@
+{
+  "name": "داشبورد من",
+  "short_name": "داشبورد",
+  "description": "برنامه روزانه، بورس، تراکر پاکی",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#060910",
+  "theme_color": "#060910",
+  "orientation": "portrait",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
